@@ -20,6 +20,7 @@ export default () => {
     >
       <span>{content.message}</span>
 
+
       <nav>
         <Link to="/app/dashboard">Dashboard</Link>
         {` `}
